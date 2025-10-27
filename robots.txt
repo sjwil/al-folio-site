@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sjwil.github.io/sitemap.xml
+Sitemap: https://sjwil.github.io//sitemap.xml
